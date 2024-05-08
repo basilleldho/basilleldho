@@ -53,4 +53,4 @@
 
 ###
 
-<script src="https://tryhackme.com/badge/871852"></script>
+<img src="https://tryhackme.com/badge/871852"></img>
