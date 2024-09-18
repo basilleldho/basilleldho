@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/kjhgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kjhgf" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="k" height="30" width="40" /></a>
 <a href="https://codesandbox.com/;lkjhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt=";lkjhg" height="30" width="40" /></a>
+<a href="https://instagram.com/bazilleldho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bazilleldho" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kjhgfcvbn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kjhgfcvbn" height="30" width="40" /></a>
 </p>
 
